@@ -67,7 +67,7 @@ Now test:
 - Press the **Left Arrow** → the bowl moves left.
 
   Example Scratch Code:  
-![Bowl Script](bowl_script.png)
+![Bowl Script](images/bowl_script.png)
 
 # Objective 2: Make the Apple Work
 
@@ -93,7 +93,7 @@ We want the apple to start at the top, fall down, and reset whenever it reaches 
 - **X-axis** goes left to right → from `-240` (left) to `240` (right)  
 - **Y-axis** goes up and down → from `-180` (bottom) to `180` (top)  
 
-![Scratch Coordinate Grid](scratch_grid.png)
+![Scratch Coordinate Grid](images/scratch_grid.png)
 
 ---
 
@@ -153,7 +153,7 @@ Now test:
 - If it touches the bottom, it resets to the top.
 
   Example Scratch Code:  
-![Apple Script](apple_script.png)
+![Apple Script](images/apple_script.png)
 - If it touches the Bowl, you hear a sound and your score increases by 1.
 
 ---
