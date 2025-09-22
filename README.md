@@ -24,8 +24,7 @@ Scratch-Projects
 |   |
 │   └───images
 │       │   code_snippets.png
-
-
+```
 
 ---
 
