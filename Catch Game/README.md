@@ -13,7 +13,6 @@ A game where objects falling from the sky, you catch them to score points. It ca
 ---
 
 ## What You Need
-- [Scratch](https://scratch.mit.edu/projects/editor/) (online or desktop)
 - Backdrop: **Blue Sky** or **Boardwalk** or any other relevant backdrop.
 - Sprites:
   - **Apple** or **Ball** or **Ballon1** or any other relevant sprite (falling object).
@@ -215,7 +214,7 @@ This helps students show their **creativity** while practicing the same coding l
 
 ---
 
-## ▶️ How to Try This Project
+## How to Try This Project
 
 If you want to check out my work:
 
@@ -225,7 +224,7 @@ If you want to check out my work:
 4. Select **Load from your computer**.  
 5. Choose the downloaded `Catch Game.sb3` file.  
 
-🎉 The game will load, and you can play or edit it directly in Scratch!
+The game will load, and you can play or edit it directly in Scratch!
 
 
 

@@ -11,6 +11,21 @@ Each project includes:
 - **Screenshots of code snippets** to guide beginners.  
 - **Creative extension ideas** so students can customize and make the project their own.  
 
+---
+
+## What You Need
+
+- **Scratch Online:** [Scratch Editor](https://scratch.mit.edu/projects/editor/)  
+- **Scratch Desktop (Offline):** You can download Scratch to use without the internet.  
+
+### Download Scratch Desktop
+1. Go to the official Scratch download page: [Download Scratch](https://scratch.mit.edu/download)  
+2. Choose the correct version for your computer (Windows, macOS, or ChromeOS).  
+3. Install it, then open Scratch on your computer.  
+
+---
+
+
 Repo structure:  
 ```
 Scratch-Projects
