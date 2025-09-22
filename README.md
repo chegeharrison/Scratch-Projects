@@ -12,10 +12,7 @@ Each project includes:
 - **Creative extension ideas** so students can customize and make the project their own.  
 
 Repo structure:  
-├── Catch-Game/
-│ ├── Catch Game.sb3
-│ ├── README.md
-│ └── images/code_snippets.png
+├── Catch-Game/│ ├── Catch Game.sb3│ ├── README.md│ └── images/│ └── code\_snippets.png
 
 
 
