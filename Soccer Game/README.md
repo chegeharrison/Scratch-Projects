@@ -1,10 +1,10 @@
-# ⚽ Scratch Soccer Game – Ben vs Jordyn  
+# Scratch Soccer Game – Ben vs Jordyn  
 
 A fun soccer game where **Ben** and **Jordyn** kick the ball back and forth on the field. The ball moves between them, players kick, celebrate, and you even hear the referee’s whistle and a cheering crowd!  
 
 ---
 
-## 🎯 Objectives
+## Objectives
 1. Set up the soccer field and characters (Ben, Jordyn, and the Ball).  
 2. Make Ben kick the ball and celebrate.  
 3. Make the ball move towards Jordyn.  
@@ -13,7 +13,7 @@ A fun soccer game where **Ben** and **Jordyn** kick the ball back and forth on t
 
 ---
 
-## 🏟️ What You Need
+## What You Need
 - **Backdrop**:  
   - *Soccer 2* (under **Sports**) → perfect because players can play back and forth on this field.  
 
@@ -24,7 +24,7 @@ A fun soccer game where **Ben** and **Jordyn** kick the ball back and forth on t
 
 ---
 
-## ⚙️ Setup
+## Setup
 1. Open Scratch and choose the backdrop **Soccer 2**.  
 2. Add sprite **Ben** → place him on the **left goal post**.  
 3. Add sprite **Jordyn** → place her on the **right goal post**.  
@@ -38,7 +38,7 @@ Now we’re ready to code!
 
 ---
 
-## 🥅 Objective 1: Ben Kicks the Ball
+## Objective 1: Ben Kicks the Ball
 
 Make sure you **highlight Ben sprite** before coding.  
 
@@ -53,7 +53,7 @@ Make sure you **highlight Ben sprite** before coding.
 
 ---
 
-## ⚽ Objective 2: The Ball Moves to Jordyn
+## Objective 2: The Ball Moves to Jordyn
 
 Make sure you **highlight the Ball sprite**.  
 
@@ -64,7 +64,7 @@ Make sure you **highlight the Ball sprite**.
 
 ---
 
-## 🛡️ Objective 3: Jordyn Blocks the Ball
+##  Objective 3: Jordyn Blocks the Ball
 
 Now highlight **Jordyn sprite**.  
 
@@ -75,7 +75,7 @@ Now highlight **Jordyn sprite**.
 
 ---
 
-## 🎯 Objective 4: Ball Returns and Scores a Goal
+## Objective 4: Ball Returns and Scores a Goal
 
 Highlight the **Ball sprite again** (since it’s now at Jordyn).  
 
@@ -88,7 +88,7 @@ Highlight the **Ball sprite again** (since it’s now at Jordyn).
 
 ---
 
-## ✅ Test the Game
+## Test the Game
 1. Click the **green flag**.  
 2. The referee whistle blows.  
 3. Ben moves, kicks, and celebrates.  
@@ -98,7 +98,7 @@ Highlight the **Ball sprite again** (since it’s now at Jordyn).
 
 ---
 
-## 🌟 Creative Extensions – Make It Your Own!
+## Creative Extensions – Make It Your Own!
 Once your game works, try adding:  
 1. **Score counter** → each time someone scores, increase the score by 1.  
 2. **Timer** → play for 30 seconds to see who wins.  
@@ -108,7 +108,7 @@ Once your game works, try adding:
 
 ---
 
-## 🕹️ How to Play in Scratch
+## How to Play in Scratch
 1. Download this project file (**Soccer Game.sb3**).  
 2. Open [Scratch Editor](https://scratch.mit.edu/projects/editor/).  
 3. Go to **File → Load from your computer**.  
