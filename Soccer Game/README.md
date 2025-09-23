@@ -50,6 +50,9 @@ Make sure you **highlight Ben sprite** before coding.
 - **`switch costume to [ben b]` (Looks)** → Change to Ben’s *kicking pose*.  
 - **`say [Goal!] for (2) seconds` (Looks)** → Ben celebrates.  
 - **`broadcast [Ball moves to Jordyn]` (Events)** → Send message to move the ball to Jordyn.  
+  
+  Example Scratch Code:  
+  ![Ben Script](images/ben.png)
 
 ---
 
@@ -73,6 +76,8 @@ Now highlight **Jordyn sprite**.
 - **`switch costume to [jordyn b]` (Looks)** → Switch to Jordyn’s *blocking pose*.  
 - **`say [Nice try!] for (2) seconds` (Looks)** → Jordyn reacts after blocking.  
 
+Example Scratch Code: 
+  ![Jordyn Script](images/Jordyn.png)
 ---
 
 ## Objective 4: Ball Returns and Scores a Goal
@@ -85,7 +90,8 @@ Highlight the **Ball sprite again** (since it’s now at Jordyn).
 - **`start sound [Basketbounce]` (Sound)** → Ball bounce effect.  
 - **`start sound [Goal Cheer]` (Sound)** → Crowd cheers loudly.  
 - (Optional) **reset ball to center** so the game can be played again.  
-
+Example Scratch Code: 
+  ![Ball Script](images/ball.png)
 ---
 
 ## Test the Game
